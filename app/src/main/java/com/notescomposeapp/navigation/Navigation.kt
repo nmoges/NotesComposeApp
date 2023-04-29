@@ -18,6 +18,7 @@ fun Navigation(navHostController: NavHostController) {
 
         composable(route = Screen.EditNoteScreen.route) {
             it.destination.label = Screen.EditNoteScreen::class.java.simpleName
+            // TODO : Define "EditNoteScreen" destination
         }
     }
 }

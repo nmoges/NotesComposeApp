@@ -15,8 +15,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.notescomposeapp.model.Note
 import com.notescomposeapp.navigation.Navigation
-import com.notescomposeapp.ui.screens.DisplayTopAppBar
-import com.notescomposeapp.ui.screens.NoteCard
+import com.notescomposeapp.ui.appbar.DisplayTopAppBar
+import com.notescomposeapp.ui.views.NoteCard
 import com.notescomposeapp.ui.theme.NotesComposeAppTheme
 
 class MainActivity : ComponentActivity() {
