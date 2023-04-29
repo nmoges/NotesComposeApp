@@ -4,8 +4,8 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.notescomposeapp.ScreenListNotes
-import com.notescomposeapp.notes
+import com.notescomposeapp.ui.screens.ScreenListNotes
+import com.notescomposeapp.ui.screens.notes
 import com.notescomposeapp.ui.screens.Screen
 
 @Composable
