@@ -1,4 +1,4 @@
-package com.notescomposeapp.ui.screens
+package com.notescomposeapp.ui.appbar
 
 import androidx.compose.material.Icon
 import androidx.compose.material.IconButton
